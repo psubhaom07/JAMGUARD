@@ -3,7 +3,7 @@
 
 ---
 
-**JamGuard** is an educational and functional prototype designed to monitor DC motor rotation in real-time, detect sustained stalls or mechanical jams, and trigger immediate hardware and software-level protections[cite: 2, 3]. Developed as a first-year B.Tech engineering project at VIT Vellore[cite: 2], it bridges embedded control, magnetic sensing, motor driver safety, and local IoT web dashboards without relying on external cloud infrastructure.
+**JamGuard** is an educational and functional prototype designed to monitor DC motor rotation in real-time, detect sustained stalls or mechanical jams, and trigger immediate hardware and software-level protections. Developed as a first-year B.Tech engineering project at VIT Vellore, it bridges embedded control, magnetic sensing, motor driver safety, and local IoT web dashboards without relying on external cloud infrastructure.
 
 ---
 
