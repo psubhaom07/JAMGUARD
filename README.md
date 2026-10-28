@@ -55,7 +55,7 @@ JamGuard solves this by continuously observing rotation via magnetic pulses, com
 
 ## 🚀 Future Scope
 * Implementing digital filtering or debouncing for enhanced pulse signal stability.
-* Adding adaptive monitoring intervals and multi-motor status aggregationoo
+* Adding adaptive monitoring intervals and multi-motor status aggregation.
 * Upgrading to industrial-grade sensors and isolated interfaces for rugged deployment.
 
 ---
