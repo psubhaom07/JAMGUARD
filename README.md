@@ -61,4 +61,4 @@ JamGuard solves this by continuously observing rotation via magnetic pulses, com
 ---
 
 ## 📜 License
-This project is developed for academic purposes under the Department of SENSE, Vellore Institute of Technology (VIT), Vellore[cite: 2]. Feel free to reference or build upon this work with appropriate attribution.
+This project is developed for academic purposes under the Department of SENSE, Vellore Institute of Technology (VIT), Vellore. Feel free to reference or build upon this work with appropriate attribution.
