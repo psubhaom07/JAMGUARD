@@ -39,7 +39,7 @@ JamGuard solves this by continuously observing rotation via magnetic pulses, com
 | Component / Tool | Role / Function |
 | :--- | :--- |
 | **Arduino Uno R3** | Sensor signal acquisition, RPM calculation, and local protection logic |
-| **ESP32 Dev Module** | UART serial data receiver and local Wi-Fi web server dashboard |
+| **ESP8266 Dev Module** | UART serial data receiver and local Wi-Fi web server dashboard |
 | **Hall-effect Sensor + 5mm Magnet** | Non-contact magnetic pulse detection per revolution |
 | **L298N Motor Driver** | Isolates and switches high-current DC motor power |
 | **Peripherals** | LED, Piezo Buzzer, Reset Push-Button, Current-limiting resistors (5% tolerance) |
@@ -48,8 +48,8 @@ JamGuard solves this by continuously observing rotation via magnetic pulses, com
 ---
 
 ## 🔌 Connection Guidelines
-* **Common Ground:** Ensure all modules (Arduino, ESP32, L298N, and sensors) share a common ground (`GND`).
-* **Level Shifting:** Always use a voltage divider or 5V-to-3.3V level shifter on the UART TX line from the Arduino Uno to the ESP32 input to protect the ESP32 pins.
+* **Common Ground:** Ensure all modules (Arduino, ESP8266, L298N, and sensors) share a common ground (`GND`).
+* **Level Shifting:** Always use a voltage divider or 5V-to-3.3V level shifter on the UART TX line from the Arduino Uno to the ESP8266 input to protect the ESP8266 pins.
 
 ---
 
